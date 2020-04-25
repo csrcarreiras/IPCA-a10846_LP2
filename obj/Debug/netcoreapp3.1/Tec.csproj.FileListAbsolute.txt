@@ -1,0 +1,13 @@
+C:\Users\Cesar\source\repos\Tec\Tec\bin\Debug\netcoreapp3.1\Tec.exe
+C:\Users\Cesar\source\repos\Tec\Tec\bin\Debug\netcoreapp3.1\Tec.deps.json
+C:\Users\Cesar\source\repos\Tec\Tec\bin\Debug\netcoreapp3.1\Tec.runtimeconfig.json
+C:\Users\Cesar\source\repos\Tec\Tec\bin\Debug\netcoreapp3.1\Tec.runtimeconfig.dev.json
+C:\Users\Cesar\source\repos\Tec\Tec\bin\Debug\netcoreapp3.1\Tec.dll
+C:\Users\Cesar\source\repos\Tec\Tec\bin\Debug\netcoreapp3.1\Tec.pdb
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.AssemblyInfoInputs.cache
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.AssemblyInfo.cs
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.dll
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.pdb
+C:\Users\Cesar\source\repos\Tec\Tec\obj\Debug\netcoreapp3.1\Tec.genruntimeconfig.cache
